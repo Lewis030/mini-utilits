@@ -1,0 +1,10 @@
+H:\Projects\Cs\Utilites\Utilites\bin\Debug\Utilites.exe.config
+H:\Projects\Cs\Utilites\Utilites\bin\Debug\Utilites.exe
+H:\Projects\Cs\Utilites\Utilites\bin\Debug\Utilites.pdb
+H:\Projects\Cs\Utilites\Utilites\obj\Debug\Utilites.csprojAssemblyReference.cache
+H:\Projects\Cs\Utilites\Utilites\obj\Debug\Utilites.Form1.resources
+H:\Projects\Cs\Utilites\Utilites\obj\Debug\Utilites.Properties.Resources.resources
+H:\Projects\Cs\Utilites\Utilites\obj\Debug\Utilites.csproj.GenerateResource.cache
+H:\Projects\Cs\Utilites\Utilites\obj\Debug\Utilites.csproj.CoreCompileInputs.cache
+H:\Projects\Cs\Utilites\Utilites\obj\Debug\Utilites.exe
+H:\Projects\Cs\Utilites\Utilites\obj\Debug\Utilites.pdb
